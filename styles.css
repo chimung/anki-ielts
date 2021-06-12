@@ -1,0 +1,33 @@
+.card {
+  font-family: arial;
+  font-size: 20px;
+  // text-align: center;
+  color: black;
+  background-color: white;
+}
+
+.cloze {
+ font-weight: bold;
+ color: blue;
+}
+.nightMode .cloze {
+ color: lightblue;
+}
+
+.example {
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.example > .example__locale {
+
+}
+
+.example > .example__content {
+    font-style: italic;
+}
+
+
+.d-inline {
+	display: inline-block;
+}
